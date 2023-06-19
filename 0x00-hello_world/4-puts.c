@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - Entry point
+ * main - A programme that writes a line
  *
  * Return: Always 0 (success)
  */
