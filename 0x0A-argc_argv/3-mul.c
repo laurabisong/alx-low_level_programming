@@ -3,12 +3,12 @@
 #include <stdlib.h>
 
 /**
-*   * main - Prints the multiplication of two argument numbers
-*     * @argc: argument count
-*       * @argv: argument vector
-*         *
-*           * Return: Always 0
-*             */
+* main - Prints the multiplication of two argument numbers
+* @argc: argument count
+* @argv: argument vector
+*
+* Return: Always 0
+*/
 int main(int argc, char *argv[])
 {
 int a = 0, b = 0;
